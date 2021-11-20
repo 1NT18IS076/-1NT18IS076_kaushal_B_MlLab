@@ -3,21 +3,4 @@
     "editor.fontFamily": "Fira Code",
     "editor.formatOnSave": true,
     "editor.defaultFormatter": "ms-python.python",
-    // "python.pythonPath": "venv/bin/python",
-
-    // "[jupyter]": {
-    //     "jupyter.experiments.enabled": true,
-    //     "jupyter.experiments.optInto": [],
-    //     "jupyter.experiments.optOutFrom": [],
-    //     "workbench.editorAssociations": {
-    //             "viewType": "jupyter-notebook",
-    //             "filenamePattern": "*.ipynb",
-    //     },
-    //     "notebook.kernelProviderAssociations": [
-    //         {
-    //             "viewType": "jupyter-notebook",
-    //             "kernelProvider": "ms-toolsai.jupyter",
-    //         },
-    //     ],
-    // },
 }
