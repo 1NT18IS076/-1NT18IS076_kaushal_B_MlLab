@@ -2,6 +2,5 @@
     "editor.fontLigatures": true,
     "editor.fontFamily": "Fira Code",
     "editor.formatOnSave": true,
-    "window.zoomLevel": 0.5,
     "editor.defaultFormatter": "ms-python.python",
 }
